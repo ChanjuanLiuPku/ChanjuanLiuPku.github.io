@@ -5,7 +5,7 @@
 
 # 💬 Invited Talks
 - *2023.08*, National Conference on Biocomputing and Graph Theory.
-- *2023.08*, China Graphics’2023, Seminar on theory and methods on Human-machine-environment fusion.
+- *2023.08*, China Graphics 2023, Seminar on theory and methods on Human-machine-environment fusion.
 - *2021.03*, Beijing Normal University.
 - *2020.10*, Academic Annual Meeting of the Biocomputing and Bioinformation Processing Committee.
 - *2020.07*, The Second Youth Scientists Forum of the Chinese Graphics Society.
