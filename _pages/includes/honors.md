@@ -1,0 +1,11 @@
+# 🎖 Honors and Awards
+- *2023.12*  Liaoning Youth Science and Technology Award (a total of 41 People in Liaoning Province in 2023)
+- *2023.05*  Excellent Teaching Quality Award of DLUT (a total of 10 People in DLUT in 2022)
+- *2023.05*  Excellent headmaster of DLUT
+- *2023.06*  China Robotics and Artificial Intelligence Competition National Second Prize
+- *2022.05*  Teaching Achievement Award in Liaoning Province
+- *2021.04*  Youth Science and Technology Star of Dalian
+- *2019.12*  Natural Science Academic Achievement Award in Liaoning Province
+- *2018.12*  Young Elite Scientists Sponsorship Program by CAST
+- *2016.01*  Outstanding graduates of Beijing
+- *2016.01*  Outstanding graduates of Peking University
