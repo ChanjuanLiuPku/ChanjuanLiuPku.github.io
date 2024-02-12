@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 Our paper has been accepted by Complex & Intelligent Systems!
 - *2024.01*: &nbsp;🎉🎉 The Special issue in Information Sciences is now open for submission [Submission Site] (https://www.editorialmanager.com/INS) [Article Type: VSI: ML and MHs]
 - *2024.01*: &nbsp;🎉🎉 Our paper has been published in Neurocomputing! [PHEE](https://www.sciencedirect.com/science/article/abs/pii/S0925231223013188)
 - *2024.01*: &nbsp;🎉🎉 Our Paper has been published in Expert Systems with Applications! [SDI](https://www.sciencedirect.com/science/article/abs/pii/S0957417423033687)
